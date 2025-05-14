@@ -1,0 +1,34 @@
+^ ctrl   ! alt   @ win   # app  ~ shift
+
+bind ~numpad0 send kekashi /attack <bt>
+bind !numpad1 send endera /ma geohelix <t>; wait 3; send kekashi /ma stone2 <bt>; wait 2; send endera /ma stone2 <t>
+bind ~numpad1 send endera /ma stone2 <t>; wait.7; send kekashi /ma stone2 <bt>
+bind !numpad0 send endera /ma dia3 <t>
+bind !numpad2 send endera /ma ionohelix <t>; wait 3; send kekashi /ma thunder2 <bt>; wait2; send endera thunder2 <t>
+bind ~numpad2 send endera /ma thunder2 <t>; wait 1; send kekashi /ma thunder2 <bt>
+bind !numpad3 send endera /ma hydrohelix <t>; wait 3; send kekashi /ma water2 <bt>; wait 2; send endera /ma water2
+bind ~numpad3 send endera /ma water2 <t>; wait 1; send kekashi /ma water2 <bt>
+bind !numpad4 send endera /ma pyrohelix <t>; wait 3; send kekashi /ma fire 3 <bt>; wait 3; send endera /ma fire3 <t>
+bind ~numpad4 send endera /ma fire2 <t>; wait .5; send kekashi /ma fire2 <bt>
+bind !numpad5 send endera /ma cryohelix <t>; wait 3; send kekashi /ma blizzard2 <bt>; wait 2; send endera /ma blizzard2 <t>
+bind ~numpad5 send endera /ma blizzard <t>; wait .7; send kekashi /ma blizzard <bt>
+bind !numpad6 send endera anemohelix <t>; wait 3; send kekashi /ma aero2 <bt>; wait 2; send endera /ma aero2 <t>
+bind ~numpad6 send endera /ma aero2 <t>; wait .7; send kekashi /ma aero2 <bt>
+bind ^numpad1 send endera /ma sandstorm <me>
+bind ^numpad2 send endera /ma thunderstorm <me>
+bind ^numpad3 send endera /ma rainstorm <me>
+bind ^numpad4 send endera /ma firestorm <me>
+bind ^numpad5 send endera /ma hailstorm <me>
+bind ^numpad6 send endera /ma windstorm <me>
+bind @numpad1 send endera /ma refresh3 <me>
+bind @numpad2 send endera /ma refresh3 kekashi
+bind @numpad3 send ekashi /ma aspir3 <bt>
+bind @f2 send endera /ma gain-int kekashi
+bind @f3 send endera /ma gain-int <me>
+bind @f4 send endera /ja convert
+bind @f5 send endera /ma cure4 <me>
+bind @f6 send endera /ma cure4 kekashi
+bind ~f2 send endera /ja dark arts
+bind ~f3 send endera /ja light arts
+bind !f2 send kekashi /ma indi-refresh
+bind !f3 send kekashi /ma indi-acumen 

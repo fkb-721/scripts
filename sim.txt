@@ -1,0 +1,2 @@
+input //sm stop all
+bind !pagedown send @others //sm start all

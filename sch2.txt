@@ -1,0 +1,11 @@
+bind ^f1 send kekashi cure3 endera
+bind ^f2 send kekashi cure4 endera
+bind ^f7 send kekashi cure4 kekashi
+bind ^f4 send kekashi cura endera
+bind ^f5 send kekashi /ja accession kekashi; wait .5; send kekashi phalanx endera
+bind ^f6 send kekashi haste endera
+bind ^f3 send kekashi regen5 endera
+bind ^f8 send kekashi regen5 kekashi
+bind !f1 send kekashi geohelix kekashi; wait 3; send kekashi stone5 <bt>
+bind !f2 send kekashi cryohelix kekashi; wait 3; sat youcommand blizzard
+bind !f3 send kekashi /ja immanence kekashi; wait.7; send kekashi /ma fire2 <bt>;wait 5;send kekashi /ja immanence kekashi; send kekashi /ma thunder2 <bt>

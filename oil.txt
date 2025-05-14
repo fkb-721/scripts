@@ -1,0 +1,1 @@
+input /item "silent oil" <me>; wait 5; /item "prism powder" <me>

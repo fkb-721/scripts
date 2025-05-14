@@ -1,0 +1,39 @@
+^ ctrl   ! alt  @ win  # app  ~ shift
+
+
+
+bind ^numpad0 send kekashi /ja call beast <me>
+bind !numpad0 send @bst /ja bestial loyalty <me>
+bind !f4 send kekashi /ja charm <t>
+bind !f5 send kekashi /ja tame <t>
+bind !f6 send kekashi /ja gauge <t>
+bind !numpad9 send kekashi /ja reward <me>
+bind !numpad1 send kekashi /ja fight <t>
+bind !numpad2 send kekashi /ja spur <me>
+bind !numpad3 send kekashi /ja snarl <me>
+bind !numpad4 send kekashi /ja heel <me>
+bind !numpad5 send kekashi /ja stay <me>
+bind !numpad6 send kekashi /ja leave <me>
+
+bind ~numpad1 send kekashi /ja boxstep <bt>
+bind ~numpad2 send kekashi /ja quickstep <bt>
+bind ~numpad3 send kekashi /ja reverse flourish <me>
+bind ~numpad4 send kekashi /ja feral howl <t>
+bind ~numpad5 send kekashi /ja killer instinct <me>
+bind ~numpad0 send kekashi /ja curing waltz3 <me>
+
+bind @numpad1 send kekashi /ja razor fang <me>
+bind @numpad2 send kekashi /ws detonation <bt>
+
+bind @numpad3 send kekashi /ja crossthrash <me>
+bind @numpad4 send kekashi /ws decimation <bt>
+
+bind @numpad5 send kekashi /ja mega scissors <me>
+bind @numpad6 send kekashi /ws ruinator <bt>
+
+bind @numpad7 send kekashi /ja chomp rush <me>
+bind @numpad8 send kekashi /ws ruinator <bt>
+
+bind @numpad9 send kekashi /ja sensilla blades <me>
+
+bind @numpad0 send kekashi /ja haste samba <me>

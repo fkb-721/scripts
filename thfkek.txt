@@ -1,0 +1,56 @@
+^ ctrl   ! alt   @ win   # app  ~ shift
+
+bind ~numpad0 send kekashi /ra <stnpc>                                                            
+bind ~numpad1 send kekashi /ra <t>
+bind ~numpad2 send kekashi /ja steal <t>
+bind ~numpad3 send kekashi /ja mug <t>
+bind ~numpad4 send kekashi /ja assassin's charge <me>
+bind ~numpad5 send kekashi /ja feint  
+bind ~numpad6 send kekashi /ja bully <t>
+bind ~numpad7 send kekashi /ja despoil <t>
+bind ~numpad8 send kekashi /ja larceny <t>
+bind ~numpad9 send kekashi /ja perfect dodge
+
+bind ^numpad0 send @thf /ja haste samba <me>
+bind ^numpad1 send @thf /ja quickstep <t>
+bind ^numpad2 send @thf /ja box step <t>
+bind ^numpad3 send @thf /ja stutter step <t>
+bind ^numpad4 send @thf /ja reverse flourish <me>
+bind ^numpad5 send @thf /ja building flourish <me>
+bind ^numpad6 send @thf /ja animated flourish <t>
+bind ^numpad7 send @thf /ja curing waltz3 <me>
+bind ^numpad8 send @thf /ja healing waltz <me>
+bind ^numpad9 send @thf /ja divine waltz <me>
+
+bind #1 send kekashi /ja sneak attack <me>; wait 1; send kekashi /ws evisceration <t>
+bind #2 send kekashi /ja sneak attack <me>; wait 1; send kekashi /ws rudra's storm <t>
+bind #3 send kekashi /ja sneak attack <me>; wait 1; send kekashi /ws exenterator <t>
+bind #4 send kekashi /ja sneak attack <me>; wait 1; send kekashi /ws shark bite <t>
+bind #5 send kekashi /ja trick attack <me>; wait 1; send kekashi /ws evisceration <t>
+bind #6 send kekashi /ja trick attack <me>; wait 1; send kekashi /ws exenterator <t>
+bind #7 send kekashi /ja sneak attack <me>; wait .9; send kekashi /ja trick attack; wait 1; send kekashi /ws evisceration <t>
+
+bind !numpad+ send @mnk /ws victory smite
+bind !numpad- send @mnk /ws shijin spiral
+bind @numpad0 send @thf /ws rudra's storm <t>
+bind @numpad1 send @thf /ws evisceration <t>
+bind @numpad2 send @thf /ws exenterator <t>
+bind @numpad3 send @thf /ws aeolian edge <t>
+bind @numpad5 send @thf /ws dancing edge <t>
+bind @numpad6 send kekashi /ja sneak attack <me>; wait 1; send kekashi /ja trick attack <me>; wait .7; send kekashi /ws evisceration <t>
+bind @numpad7 send @thf /ws mercy stroke <t>
+bind @numpad9 send @thf /ws last stand <t>
+
+
+bind !f2 send @mnk /ja inner strength
+bind !f3 send @mnk /ja mantra
+bind !f4 send @mnk /ja curing waltz 3
+
+bind @numpad5 send @mnk /ja haste samba
+
+bind !numpad1 send @mnk /ja berserk
+bind !numpad2 send @mnk /ja warcry
+bind !numpad3 send @mnk /ja provoke <t> 
+bind !numpad4 send @whm /ma cure4 kekashi
+bind !numpad5 send @whm /ma cure4 endera
+bind !numpad6 send @whm /ma cure4 erzaxscarlet

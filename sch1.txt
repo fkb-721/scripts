@@ -1,0 +1,48 @@
+^ ctrl ! alt ~ shift @ window #app
+
+bind !numpad0 send @sch /ja immanence
+bind !numpad1 send @sch /ma fire3 <t>
+bind !numpad2 send @sch /ma blizzard3 <t>
+bind !numpad3 send @sch /ma aero3 <t>
+bind !numpad4 send @sch /ma stone3 <t>
+bind !numpad5 send @sch /ma thunder3 <t>
+bind !numpad6 send @sch /ma water3 <t>
+bind !numpad7 send @sch /ja parsimony
+bind !numpad8 send @sch /ja alcrity
+bind !numpad9 send @sch /ja ebullience
+
+bind ~numpad0 send @sch /ja manifestation
+bind ~numpad1 send @sch /ma pyrohelix2
+bind ~numpad2 send @sch /ma cryohelix2
+bind ~numpad3 send @sch /ma anemohelix2
+bind ~numpad4 send @sch /ma geohelix2
+bind ~numpad5 send @sch /ma ionohelix2
+bind ~numpad6 send @sch /ma hydrohelix2
+bind ~numpad7 send @sch /ma noctohelix2
+bind ~numpad8 send @sch /ma luminohelix2
+bind ~numpad9 send @sch /ja dark arts
+
+bind #numpad0 send @sch /ma stoneskin
+bind #numpad1 send @sch /ma firestorm2
+bind #numpad2 send @sch /ma hailstorm2
+bind #numpad3 send @sch /ma windstorm2
+bind #numpad4 send @sch /ma sandstorm 2
+bind #numpad5 send @sch /ma thunderstorm2
+bind #numpad6 send @sch /ma rainstorm2
+bind #numpad7 send @sch /ma voidstorm2
+bind #numpad8 send @sch /ma aurorstorm2
+
+bind ^numpad0 send @sch /ja focalization
+bind ^numpad1 send @sch /ma stone5
+bind ^numpad2 send @sch /ma thunder5 
+bind ^numpad3 send @sch /ma water5 
+bind ^numpad4 send @sch /ma fire5
+bind ^numpad5 send @sch /ma blizzard5
+bind ^numpad6 send @sch /ma aero5
+
+bind !delete send @sch /acc
+bind !end send @sch /ss
+bind !ins send @sch /sneak
+bind !home send @sch /inv
+bind !pageup send @sch /ma cure4 <stpt>
+bind !pagedown send @sch /ma regen5 <stpt>

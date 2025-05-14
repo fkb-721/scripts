@@ -1,0 +1,28 @@
+^ ctrl   ! alt   @ win   # app  ~ shift
+
+bind !numpad0 send @smn /release
+bind !numpad1 send @smn /assault 
+bind !numpad2 send @smn /retreat
+bind !numpad3 send @smn /ramuh
+bind !numpad4 send @smn /ifrit
+bind !numpad5 send @smn /volt strike <bt>
+bind !numpad6 send @smn /flaming crush <bt>
+bind !numpad9 send @smn /shock squall
+
+bind ^numpad0 send @smn /cure4 <stal>
+bind ^numpad1 send @smn /cursna <stal>
+bind ^numpad2 send @smn /paralyna <stal>
+bind ^numpad3 send @smn /viruna <stal>
+bind ^numpad8 send @smn /erase <stal>
+bind ^numpad9 send @smn /curaga2 <stal>
+
+bind #numpad0 send @smn /haste <stpc>
+
+bind @numpad0 send @smn /myrkr
+bind @numpad9 send @smn /stoneskin
+
+bind !pagedown send @smn /echo <pettp>
+
+bind ~numpad0 send @smn /astral flow
+bind ~numpad1 send @smn /astral conduit
+bind ~numpad2 send @smn /sublimation

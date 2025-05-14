@@ -1,0 +1,4 @@
+input /ma warp2 endera; wait 10;
+input /ma warp2 erzaxscarlet; wait 10;
+input /ma warp2 kekashi; wait 10;
+input /ma warp

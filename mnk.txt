@@ -1,0 +1,39 @@
+
+bind #1 send @rdm /ma fire3 <tid>
+bind !numpad1 send @mnk /ja boost 
+bind !numpad2 send @mnk /ja focus
+bind !numpad3 send @mnk /ja impetus
+bind !numpad4 send @mnk /ja formless strikes
+bind !numpad5 send @mnk /ja footwork
+bind !numpad6 send @mnk /ja counterstance
+bind !numpad7 send @mnk /ja perfect counter
+bind !numpad8 send @mnk /ja dodge
+bind !numpad9 send @mnk /ja chakra
+bind !numbad0 send @mnk /ja chi blast <t>
+ 
+bind !f2 send @mnk /ja inner strength
+bind !f3 send @mnk /ja mantra
+bind !f4 send @mnk /ja curing waltz 3
+bind @pagedown send @mnk /equipset 4
+bind @pageup send @mnk /equipset 3
+
+bind @numpad1 send @mnk /ws victory smite <t>
+bind @numpad2 send @mnk /ws shijin spiral <t>
+
+bind @numpad3 send @mnk /ja haste samba
+bind @numpad4 send @mnk /ja drain samba2
+bind @numpad5 send @mnk /ja quick step
+bind @numpad6 send @mnk /ja box step
+bind @numpad7 send @mnk /ja reverse flourish
+bind @numpad8 send @mnk /ja building flourish
+bind @numpad9 send @mnk /ja wild flourish
+
+bind ~pagedown send @whm /ma cure4 endera
+bind ~pageup send @whm /ma cure5 endera
+
+bind ~f2 send @whm /ma cure4 <me>
+bind ~numpad0 send kekashi /attack <bt>
+bind ^numpad1 send kekashi /ma thunder3 <bt>
+bind ^numpad2 send kekashi /ma stone3 <bt>
+bind ^numpad4 send kekashi /fire4 <bt>
+bind ^numpad3 send kekashi /stone5 <bt>

@@ -1,0 +1,73 @@
+^ ctrl   ! alt  @ win  # app  ~ shift
+bind @numpad0 send @blm /ws myrkr 
+bind @numpad1 send @blm /ja elemental seal
+bind @numpad2 send @blm /ja manawell
+bind @numpad3 send @blm /ja mana wall
+bind @numpad4 send @blm 
+bind @numpad5 send @blm /ja enmity douse
+bind @numpad6 send @blm /ja subtle sorcery
+bind @numpad7 send @blm 
+bind @numpad8 send @blm 
+bind @numpad9 send @blm 
+bind @numpad+ send @blm /ja manafont
+
+bind ~1 send @blm /ma cure3 <me>
+bind ~2 send @blm /ma cure3 <stpc>
+bind ~3 send @blm /ma regen2 <stpc>
+
+
+bind ^1 send @blm /ma  
+bind ^2 send @blm /ma ice spikes
+
+bind !1 send @blm /ma warp
+bind !2 send kekashi /ma warp2 gintaroh 
+bind !3 send @blm /ma aspir
+bind !4 send @blm /ma drain
+
+bind ~numpad0 send @blm /ja parsimony
+bind ~numpad1 send @blm /ma pyrohelix
+bind ~numpad2 send @blm /ma cryohelix
+bind ~numpad3 send @blm /ma anemohelix
+bind ~numpad4 send @blm /ma geohelix
+bind ~numpad5 send @blm /ma ionohelix
+bind ~numpad6 send @blm /ws hydrohelix
+bind ~numpad7 send @blm /ma noctohelix
+bind ~numpad8 send @blm /ma luminohelix
+bind ~numpad9 send @blm /ja dark arts
+
+bind #numpad0 send @blm /ma stoneskin
+bind #numpad1 send @blm /ma firestorm
+bind #numpad2 send @blm /ma hailstorm
+bind #numpad3 send @blm /ma windstorm
+bind #numpad4 send @blm /ma sandstorm 
+bind #numpad5 send @blm /ma thunderstorm
+bind #numpad6 send @blm /ma rainstorm
+bind #numpad7 send @blm /ma voidstorm
+bind #numpad8 send @blm /ma aurorstorm
+
+bind ^numpad0 send @whm /ma curaga3 erzaxscarlet
+bind ^numpad1 send @blm /ma firaja <t>
+bind ^numpad2 send @blm /ma blizzaja <t>
+bind ^numpad3 send @blm /ma aeroja <t>
+bind ^numpad4 send @blm /ma stoneja <t>
+bind ^numpad5 send @blm /ma thundaja <t>
+bind ^numpad6 send @blm /ma waterja <t>
+bind ^numpad7 send @blm /ma breakga <t>
+bind ^numpad8 send @blm /ma sleepga <t>
+bind ^numpad9 send @blm /ma sleepga2 <t>
+
+
+bind !numpad0 send @blm /ja ebullience
+bind !numpad1 send @blm /ma fire3 <t>
+bind !numpad2 send @blm /ma blizzard3 <t>
+bind !numpad3 send @blm /ma aero3 <t>
+bind !numpad4 send @blm /ma stone3 <t>
+bind !numpad5 send @blm /ma thunder3 <t>
+bind !numpad6 send @blm /ma water3 <t>
+bind !numpad7 send @blm /ma drain <t>
+bind !numpad8 send @blm /ma water3 <t>
+bind !numpad9 send @blm /ma comet <t>
+
+
+
+

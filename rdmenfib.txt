@@ -1,0 +1,8 @@
+input /ma "Frazzle III" <bt>; wait 4;
+input /ma "Distract III" <tid>; wait 4;
+input /ma "Slow II" <tid>; wait 4;
+input /ma "Paralyze II" <tid>; wait 4;
+input /ma "Addle II" <tid>; wait 4;
+input /ma "Inundation" <tid>; wait 4;
+input /ma "Blind II" <tid>; 
+input /ma "Silence" <tid>
