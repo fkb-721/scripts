@@ -1,0 +1,9 @@
+input /echo -----Abilities-----;
+input /echo [ ALT + ` ] Trick Attack;
+input /echo -----Dagger-----;
+input /echo [ ALT + Numpad1 ]  Wasp Sting;
+input /echo [ ALT + Numpad2 ]  Viper Bite;
+input /echo [ ALT + Numpad3 ]  Gust Slash;
+input /echo [ ALT + Numpad4 ]  Cyclone;
+input /echo [ ALT + Numpad5 ]  Energy Steal;
+input /echo [ ALT + Numpad6 ]  Energy Drain;

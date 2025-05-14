@@ -1,0 +1,22 @@
+bind ^numpad- exec /THF/THF-H2H-Echo-CTRL.txt
+bind ^numpad1 input /ws "Asuran Fists" <t>
+bind ^numpad2 input /ws "Combo" <t>
+bind ^numpad3 input /ws "Backhand Blow" <t>
+bind ^numpad4 input /ws "Spinning Attack" <t>
+unbind ^numpad5
+unbind ^numpad6
+unbind ^numpad7
+unbind ^numpad9
+bind ^numpad. input /ws "Shoulder Tackle" <t>
+
+bind !numpad- exec /THF/THF-H2H-Echo-ALT.txt
+unbind !numpad1
+unbind !numpad2
+unbind !numpad3
+unbind !numpad4
+unbind !numpad5
+unbind !numpad6
+unbind !numpad7
+unbind !numpad8
+unbind !numpad9
+unbind !numpad.

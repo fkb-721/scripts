@@ -1,0 +1,5 @@
+input /echo -----Great_Axe-----;
+input /echo [ ALT + Numpad1 ] Iron Tempest;
+input /echo [ ALT + Numpad2 ] Sturmwind;
+input /echo [ ALT + Numpad3 ] Keen Edge;
+input /echo [ ALT  + Numpad. ] Shield Break;

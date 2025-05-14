@@ -1,0 +1,21 @@
+bind ^numpad- exec /SAM/SAM-Dagger-Echo-CTRL.txt
+bind ^numpad1 input /ws "Wasp Sting" <t>
+bind ^numpad2 input /ws "Viper Bite" <t>
+bind ^numpad3 input /ws "Cyclone" <t>
+bind ^numpad4 input /ws "Aeolian Edge" <t>
+bind ^numpad5 input /ws "Gust Slash" <t>
+bind ^numpad7 input /ws "Energy Drain" <t>
+bind ^numpad9 input /ws "Energy Steal" <t>
+bind ^numpad. input /ws "Shadowstitch" <t>
+
+bind !numpad- exec /SAM/SAM-Dagger-Echo-ALT.txt
+unbind !numpad1
+unbind !numpad2
+unbind !numpad3
+unbind !numpad4
+unbind !numpad5
+unbind !numpad6
+unbind !numpad7
+unbind !numpad8
+unbind !numpad9
+unbind !numpad.

@@ -1,0 +1,22 @@
+get Ammurapi Shield sack;
+get Bunzi\'s Rod case;
+get Crocea Mors case;
+get Murgleis case;
+get Daybreak case;
+get Chatoyant Staff case;
+get Genmei Shield sack;
+get Forfend +1 sack;
+get Enki Strap sack;
+get Gleti\'s Knife case;
+get Machaera +2 case;
+get Malevolence case;
+get Mpu Gandring case;
+get Maxentius case;
+get Naegling case;
+get Pukulatmuj +1 case;
+get Sakpata\'s Sword case;
+get Tauret case;
+get Bolelabunga sack
+get Ullr case;
+get Chapuli Arrow satchel all;
+get Shihei satchel all;

@@ -1,0 +1,7 @@
+input /echo -----Abilities-----;
+input /echo [ ALT + ` ] Uses Assigned Barspell;
+input /echo [ ALT + - ] Cycleback Barspells;
+input /echo [ ALT + = ] Cycle Barspells;		
+input /echo -----Great_Axe-----;
+input /echo [ ALT + Numpad1 ] Iron Tempest;
+input /echo [ ALT  + Numpad. ] Lunge;

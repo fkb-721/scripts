@@ -1,0 +1,13 @@
+put Blurred Shield +1 sack;
+put Chango case;
+put Ikenga\'s Axe case;
+put Dolichenus case;
+put Loxotic Mace +1 case;
+put Lycurgos case;
+put Naegling case;
+put Shining One case;
+put Utu Grip sack;
+put Cichol\'s Mantle sack all;
+put Thr. Tomahawk satchel all;
+put Shihei satchel all;
+

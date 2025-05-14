@@ -1,0 +1,22 @@
+bind ^numpad- exec /WAR/WAR-Polearm-Echo-CTRL.txt
+bind ^numpad1 input /ws "Impulse Drive" <t>
+bind ^numpad2 input /ws "Stardiver" <t>
+bind ^numpad3 input /ws "Penta Thrust" <t>
+bind ^numpad4 input /ws "Sonic Thrust" <t>
+bind ^numpad5 input /ws "Vorpal Thrust" <t>
+bind ^numpad6 input /ws "Double Thrust" <t>
+bind ^numpad7 input /ws "Raiden Thrust" <t>
+bind ^numpad9 input /ws "Thunder Thrust" <t>
+bind ^numpad. input /ws "Leg Sweep" <t>
+
+bind !numpad- exec /WAR/WAR-Sword-Echo-ALT.txt
+unbind !numpad1
+unbind !numpad2
+unbind !numpad3
+unbind !numpad4
+unbind !numpad5
+unbind !numpad6
+unbind !numpad7
+unbind !numpad8
+unbind !numpad9
+unbind !numpad.

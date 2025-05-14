@@ -1,0 +1,7 @@
+input /echo -----Abilities-----;
+input /echo [ ALT + ` ] Seigan;
+input /echo -----Great_Katana-----;
+input /echo [ ALT + Numpad1 ] Tachi: Jinpu;
+input /echo [ ALT + Numpad2 ] Tachi: Kagero;
+input /echo [ ALT + Numpad3 ] Tachi: Goten;
+input /echo [ ALT + Numpad4 ] Tachi: Koki;

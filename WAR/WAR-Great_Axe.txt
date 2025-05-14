@@ -1,0 +1,22 @@
+bind ^numpad- exec /WAR/WAR-Great_Axe-Echo-CTRL.txt
+bind ^numpad1 input /ws "Upheaval" <t>
+bind ^numpad2 input /ws "Ukko\'s Fury" <t>
+bind ^numpad3 input /ws "Armor Break" <t>
+bind ^numpad4 input /ws "Fell Cleave" <t>
+bind ^numpad5 input /ws "Steel Cyclone" <t>
+bind ^numpad6 input /ws "King\'s Justice" <t>
+bind ^numpad7 input /ws "Raging Rush" <t>
+bind ^numpad9 input /ws "Weapon Break" <t>
+bind ^numpad. input /ja "Full Break" <t>
+
+bind !numpad- exec /WAR/WAR-Great_Axe-Echo-ALT.txt
+bind !numpad1 input /ja "Iron Tempest" <t>
+bind !numpad2 input /ja "Sturmwind" <t>
+bind !numpad3 input /ja "Keen Edge" <t>
+unbind !numpad4
+unbind !numpad5
+unbind !numpad6
+unbind !numpad7
+unbind !numpad8
+unbind !numpad9
+bind !numpad. input /ja "Shield Break" <t>

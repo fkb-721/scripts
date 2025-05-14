@@ -1,0 +1,6 @@
+input /echo -----Abilities-----;
+input /echo [ ALT + ` ] Trick Attack;
+input /echo -----Sword-----;
+input /echo [ ALT + Numpad1 ]  Fast Blade;
+input /echo [ ALT + Numpad2 ]  Spirits Within;
+input /echo [ ALT + Numpad3 ]  Circle Blade;

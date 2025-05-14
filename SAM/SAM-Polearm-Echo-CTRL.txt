@@ -1,0 +1,12 @@
+input /echo -----Abilities-----;
+input /echo [ CTRL + ` ] Uses Hasso;
+input /echo -----Polearm-----;
+input /echo [ CTRL + Numpad1 ] Impulse Drive;
+input /echo [ CTRL + Numpad2 ] Stardiver;
+input /echo [ CTRL + Numpad3 ] Penta Thrust;
+input /echo [ CTRL + Numpad4 ] Sonic Thrust;
+input /echo [ CTRL + Numpad5 ] Vorpal Thrust;
+input /echo [ CTRL + Numpad6 ] Double Thrust;
+input /echo [ CTRL + Numpad7 ] Raiden Thrust;
+input /echo [ CTRL + Numpad9 ] Thunder Thrust;
+input /echo [ CTRL + Numpad. ] Leg Sweep;

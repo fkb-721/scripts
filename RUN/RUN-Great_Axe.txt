@@ -1,0 +1,22 @@
+bind ^numpad- exec /RUN/RUN-Great_Axe-Echo-CTRL.txt
+bind ^numpad1 input /ws "Upheaval" <t>
+bind ^numpad2 input /ws "Steel Cyclone" <t>
+bind ^numpad3 input /ws "Armor Break" <t>
+bind ^numpad4 input /ws "Fell Cleave" <t>
+bind ^numpad5 input /ws "Weapon Break" <t>
+bind ^numpad6 input /ws "Shield Break" <t>
+bind ^numpad7 input /ws "Keen Edge" <t>
+bind ^numpad9 input /ws "Sturmwind" <t>
+bind ^numpad. input /ja "Swipe" <t>
+
+bind !numpad- exec /RUN/RUN-Great_Axe-Echo-ALT.txt
+bind !numpad1 input /ja "Iron Tempest" <t>
+unbind !numpad2
+unbind !numpad3
+unbind !numpad4
+unbind !numpad5
+unbind !numpad6
+unbind !numpad7
+unbind !numpad8
+unbind !numpad9
+bind !numpad. input /ja "Lunge" <t>

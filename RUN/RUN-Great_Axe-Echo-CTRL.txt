@@ -1,0 +1,14 @@
+input /echo -----Abilities-----;
+input /echo [ CTRL + ` ] Uses Assigned Rune;
+input /echo [ CTRL + - ] Cycleback Runes;
+input /echo [ CTRL + = ] Cycle Runes;
+input /echo -----Great_Axe-----;
+input /echo [ CTRL + Numpad1 ] Upheaval;
+input /echo [ CTRL + Numpad2 ] Steel Cyclone;
+input /echo [ CTRL + Numpad3 ] Armor Break;
+input /echo [ CTRL + Numpad4 ] Fell Cleave;
+input /echo [ CTRL + Numpad5 ] Weapon Break;
+input /echo [ CTRL + Numpad6 ] Shield Break;
+input /echo [ CTRL + Numpad7 ] Keen Edge;
+input /echo [ CTRL + Numpad9 ] Sturmwind;
+input /echo [ CTRL + Numpad. ] Swipe;

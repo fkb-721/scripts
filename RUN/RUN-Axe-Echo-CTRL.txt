@@ -1,0 +1,14 @@
+input /echo -----Abilities-----;
+input /echo [ CTRL + ` ] Uses Assigned Rune;
+input /echo [ CTRL + - ] Cycleback Runes;
+input /echo [ CTRL + = ] Cycle Runes;
+input /echo -----Axe-----;
+input /echo [ CTRL + Numpad1 ] Decimation;
+input /echo [ CTRL + Numpad2 ] Ruinator;
+input /echo [ CTRL + Numpad3 ] Bora Axe;
+input /echo [ CTRL + Numpad4 ] Rampage;
+input /echo [ CTRL + Numpad5 ] Gale Axe;
+input /echo [ CTRL + Numpad6 ] Avalanche Axe;
+input /echo [ CTRL + Numpad7 ] Spinning Axe;
+input /echo [ CTRL + Numpad9 ] Raging Axe;
+input /echo [ CTRL + Numpad. ] Swipe;

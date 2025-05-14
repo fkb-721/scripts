@@ -1,0 +1,11 @@
+input /echo -----Abilities-----;
+input /echo [ CTRL + ` ] Uses Hasso;	
+input /echo -----Dagger-----;
+input /echo [ CTRL + Numpad1 ] Wasp Sting;
+input /echo [ CTRL + Numpad2 ] Viper Bite;
+input /echo [ CTRL + Numpad3 ] Cyclone;
+input /echo [ CTRL + Numpad4 ] Aeolian Edge;
+input /echo [ CTRL + Numpad5 ] Gust Slash;
+input /echo [ CTRL + Numpad7 ] Energy Drain;
+input /echo [ CTRL + Numpad9 ] Energy Steal;
+input /echo [ CTRL + Numpad. ] Shadowstitch;

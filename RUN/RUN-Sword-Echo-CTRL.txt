@@ -1,0 +1,10 @@
+input /echo -----Sword-----;
+input /echo [ CTRL + Numpad1 ] Sanguine Blade;
+input /echo [ CTRL + Numpad2 ] Seraph Blade;
+input /echo [ CTRL + Numpad3 ] Requiescat;
+input /echo [ CTRL + Numpad4 ] Savage Blade;
+input /echo [ CTRL + Numpad5 ] Burning Blade;
+input /echo [ CTRL + Numpad6 ] Shining Blade;
+input /echo [ CTRL + Numpad7 ] Red Lotus Blade;
+input /echo [ CTRL + Numpad9 ] Vorpal Blade;
+input /echo [ CTRL + Numpad. ] Swipe;

@@ -1,0 +1,22 @@
+bind ^numpad- exec /RUN/RUN-Great_Sword-Echo-CTRL.txt
+bind ^numpad1 input /ws "Resolution" <t>
+bind ^numpad2 input /ws "Dimidiation" <t>
+bind ^numpad3 input /ws "Ground Strike" <t>
+bind ^numpad4 input /ws "Shockwave" <t>
+bind ^numpad5 input /ws "Herculean Slash" <t>
+bind ^numpad6 input /ws "Spinning Slash" <t>
+bind ^numpad7 input /ws "Sickle Moon" <t>
+bind ^numpad9 input /ws "Crescent Moon" <t>
+bind ^numpad. input /ja "Swipe" <t>
+
+bind !numpad- exec /RUN/RUN-Great_Sword-Echo-ALT.txt
+bind !numpad1 input /ws "Hard Slash" <t>
+bind !numpad2 input /ws "Power Slash" <t>
+bind !numpad3 input /ws "Freezebite" <t>
+bind !numpad4 input /ws "Frostbite" <t>
+unbind !numpad5
+unbind !numpad6
+unbind !numpad7
+unbind !numpad8
+unbind !numpad9
+bind !numpad. input /ja "Lunge" <t>

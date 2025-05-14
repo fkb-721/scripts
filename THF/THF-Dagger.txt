@@ -1,0 +1,22 @@
+bind ^numpad- exec /THF/THF-Dagger-Echo-CTRL.txt
+bind ^numpad1 input /ws "Evisceration" <t>
+bind ^numpad2 input /ws "Rudra\'s Storm" <t>
+bind ^numpad3 input /ws "Mandalic Stab" <t>
+bind ^numpad4 input /ws "Aeolian Edge" <t>
+bind ^numpad5 input /ws "Exenterator" <t>
+bind ^numpad6 input /ws "Mercy Stroke" <t>
+bind ^numpad7 input /ws "Shark Bite" <t>
+bind ^numpad9 input /ws "Dancing Edge" <t>
+bind ^numpad. input /ws "Shadowstitch" <t>
+
+bind !numpad- exec /THF/THF-Dagger-Echo-ALT.txt
+bind !numpad1 input /ws "Wasp Sting" <t>
+bind !numpad2 input /ws "Viper Bite" <t>
+bind !numpad3 input /ws "Gust Slash" <t>
+bind !numpad4 input /ws "Cyclone" <t>
+bind !numpad5 input /ws "Energy Steal" <t>
+bind !numpad6 input /ws "Energy Drain" <t>
+unbind !numpad7
+unbind !numpad8
+unbind !numpad9
+unbind !numpad.

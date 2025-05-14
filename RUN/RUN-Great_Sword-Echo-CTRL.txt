@@ -1,0 +1,14 @@
+input /echo -----Abilities-----;
+input /echo [ CTRL + ` ] Uses Assigned Rune;
+input /echo [ CTRL + - ] Cycleback Runes;
+input /echo [ CTRL + = ] Cycle Runes;
+input /echo -----Great_Sword-----;
+input /echo [ CTRL + Numpad1 ] Resolution;
+input /echo [ CTRL + Numpad2 ] Dimidiation;
+input /echo [ CTRL + Numpad3 ] Ground Strike;
+input /echo [ CTRL + Numpad4 ] Shockwave;
+input /echo [ CTRL + Numpad5 ] Herculean Slash;
+input /echo [ CTRL + Numpad6 ] Spinning Slash;
+input /echo [ CTRL + Numpad7 ] Sickle Moon;
+input /echo [ CTRL + Numpad9 ] Crescent Moon;
+input /echo [ CTRL + Numpad. ] Swipe;

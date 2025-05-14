@@ -1,0 +1,12 @@
+input /echo -----Abilities-----;
+input /echo [ CTRL + ` ] Sneak Attack;	
+input /echo -----Dagger-----;
+input /echo [ CTRL + Numpad1 ] Evisceration;
+input /echo [ CTRL + Numpad2 ] Rudra's Storm;
+input /echo [ CTRL + Numpad3 ] Mandalic Stab;
+input /echo [ CTRL + Numpad4 ] Aeolian Edge;
+input /echo [ CTRL + Numpad5 ] Exenterator;
+input /echo [ CTRL + Numpad6 ] Mercy Stroke;
+input /echo [ CTRL + Numpad7 ] Shark Bite;
+input /echo [ CTRL + Numpad9 ] Dancing Edge;
+input /echo [ CTRL + Numpad. ] Shadowstitch;

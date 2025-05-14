@@ -1,0 +1,5 @@
+input /echo -----Axe-----;
+input /echo [ ALT + Numpad1 ] Smash Axe;
+input /echo [ ALT + Numpad2 ] Mistral Axe;
+input /echo [ ALT + Numpad3 ] Calamity;
+input /echo [ ALT + Numpad4 ] Cloudsplitter;

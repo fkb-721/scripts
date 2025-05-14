@@ -1,0 +1,22 @@
+bind ^numpad- exec /SAM/SAM-Great_Katana-Echo-CTRL.txt
+bind ^numpad1 input /ws "Tachi: Fudo" <t>
+bind ^numpad2 input /ws "Tachi: Shoha" <t>
+bind ^numpad3 input /ws "Tachi: Kasha" <t>
+bind ^numpad4 input /ws "Tachi: Ageha" <t>
+bind ^numpad5 input /ws "Tachi: Gekko" <t>
+bind ^numpad6 input /ws "Tachi: Rana" <t>
+bind ^numpad7 input /ws "Tachi: Yukikaze" <t>
+bind ^numpad9 input /ws "Tachi: Enpi" <t>
+bind ^numpad. input /ws "Tachi: Hobaku" <t>
+
+bind !numpad- exec /SAM/SAM-Great_Katana-Echo-ALT.txt
+bind !numpad1 input /ws "Tachi: Jinpu" <t>
+bind !numpad2 input /ws "Tachi: Kagero" <t>
+bind !numpad3 input /ws "Tachi: Goten" <t>
+bind !numpad4 input /ws "Tachi: Koki" <t>
+unbind !numpad5
+unbind !numpad6
+unbind !numpad7
+unbind !numpad8
+unbind !numpad9
+unbind !numpad.

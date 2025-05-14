@@ -1,0 +1,22 @@
+put Ammurapi Shield sack;
+put Bunzi\'s Rod case;
+put Crocea Mors case;
+put Murgleis case;
+put Daybreak case;
+put Chatoyant Staff case;
+put Genmei Shield sack;
+put Forfend +1 sack;
+put Enki Strap sack;
+put Gleti\'s Knife case;
+put Machaera +2 case;
+put Malevolence case;
+put Mpu Gandring case;
+put Maxentius case;
+put Naegling case;
+put Pukulatmuj +1 case;
+put Sakpata\'s Sword case;
+put Tauret case;
+put Bolelabunga sack
+put Ullr case;
+put Chapuli Arrow satchel all;
+put Shihei satchel all;

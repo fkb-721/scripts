@@ -1,0 +1,10 @@
+input /echo -----Great_Axe-----;
+input /echo [ CTRL + Numpad1 ] Upheaval;
+input /echo [ CTRL + Numpad2 ] Ukko's Fury;
+input /echo [ CTRL + Numpad3 ] Armor Break;
+input /echo [ CTRL + Numpad4 ] Fell Cleave;
+input /echo [ CTRL + Numpad5 ] Steel Cyclone;
+input /echo [ CTRL + Numpad6 ] King's Justice;
+input /echo [ CTRL + Numpad7 ] Raging Rush;
+input /echo [ CTRL + Numpad9 ] Weapon Break;
+input /echo [ CTRL + Numpad. ] Full Break;
