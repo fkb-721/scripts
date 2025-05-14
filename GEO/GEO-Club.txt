@@ -1,0 +1,22 @@
+bind ^numpad- exec /GEO/GEO-Club-Echo-CTRL.txt
+bind ^numpad1 input /ws "Black Halo" <t>
+bind ^numpad2 input /ws "Shining Strike" <t>
+bind ^numpad3 input /ws "Skullbreaker" <t>
+bind ^numpad4 input /ws "True Strike" <t>
+bind ^numpad5 input /ws "Realmrazer" <t>
+unbind ^numpad6
+unbind ^numpad7
+unbind ^numpad9
+bind ^numpad. input /ws "Brainshaker" <t>
+
+bind !numpad- exec /GEO/GEO-Club-Echo-ALT.txt
+bind !numpad1 input /ws "Starlight" <t>
+unbind !numpad2
+unbind !numpad3
+unbind !numpad4
+unbind !numpad5
+unbind !numpad6
+unbind !numpad7
+unbind !numpad8
+unbind !numpad9
+unbind !numpad.

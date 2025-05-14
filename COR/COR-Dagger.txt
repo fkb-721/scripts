@@ -1,0 +1,10 @@
+bind !numpad- exec /COR/COR-Sword-Echo-ALT.txt
+bind !numpad1 input /ws "Evisceration" <t>
+bind !numpad2 input /ws "Exenterator" <t>
+bind !numpad3 input /ws "Cyclone" <t>
+bind !numpad4 input /ws "Aeolian Edge" <t>
+bind !numpad5 input /ws "Gust Slash" <t>
+bind !numpad6 input /ws "Viper Bite" <t>
+bind !numpad7 input /ws "Wasp Sting" <t>
+unbind !numpad9
+bind !numpad. input /ws "Shadowstitch" <t>

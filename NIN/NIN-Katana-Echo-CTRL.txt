@@ -1,0 +1,11 @@
+input /echo -----Abilities-----;
+input /echo [ CTRL + ` ] Yonin;
+input /echo -----Katana-----;
+input /echo [ CTRL + Numpad1 ] Blade: Shun;
+input /echo [ CTRL + Numpad2 ] Blade: Ten;
+input /echo [ CTRL + Numpad3 ] Blade: Hi;
+input /echo [ CTRL + Numpad4 ] Blade: Kamu;
+input /echo [ CTRL + Numpad5 ] Blade: Ku;
+input /echo [ CTRL + Numpad6 ] Blade: Jin;
+input /echo [ CTRL + Numpad7 ] Blade: Rin;
+input /echo [ CTRL + Numpad9 ] Blade: Retsu;

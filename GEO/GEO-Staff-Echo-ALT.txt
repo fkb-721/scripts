@@ -1,0 +1,6 @@
+input /echo -----Mode-----;
+input /echo [ ALT + - ] Cycle Element;
+input /echo [ ALT + = ] Cycleback Element;
+input /echo -----Staff-----;
+input /echo [ ALT + Numpad1 ] Starburst;
+input /echo [ ALT + Numpad2 ] Rock Crusher;

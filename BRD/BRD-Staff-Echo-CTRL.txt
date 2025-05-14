@@ -1,0 +1,9 @@
+input /echo -----Staff-----;
+input /echo [ CTRL + Numpad1 ] Retribution;
+input /echo [ CTRL + Numpad2 ] Full Swing;
+input /echo [ CTRL + Numpad3 ] Shell Crusher;
+input /echo [ CTRL + Numpad4 ] Spirit Taker;
+input /echo [ CTRL + Numpad5 ] Rock Crusher;
+input /echo [ CTRL + Numpad6 ] Starburst;
+input /echo [ CTRL + Numpad7 ] Heavy Swing;
+input /echo [ CTRL + Numpad. ] Shattersoul;

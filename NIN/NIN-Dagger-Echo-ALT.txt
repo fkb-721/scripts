@@ -1,0 +1,5 @@
+input /echo -----Abilities-----;
+input /echo [ ALT + ` ] Innin;
+input /echo -----Dagger-----;
+input /echo [ ALT + Numpad1 ]  Energy Steal;
+input /echo [ ALT + Numpad2 ]  Energy Drain;

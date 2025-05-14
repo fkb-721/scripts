@@ -1,0 +1,9 @@
+put Ammurapi Shield sack
+put Bunzi\'s Rod case
+put Daybreak case
+put Genmei Shield sack
+put Enki Strap sack
+put Khonsu sack
+put Maxentius case
+put Mpaca\'s Staff case
+put Taranus\'s Cape sack all

@@ -1,0 +1,10 @@
+bind ^numpad- exec /BRD/BRD-Dagger-Echo-CTRL.txt
+bind ^numpad1 input /ws "Evisceration" <t>
+bind ^numpad2 input /ws "Rudra\'s Storm" <t>
+bind ^numpad3 input /ws "Mordant Rime" <t>
+bind ^numpad4 input /ws "Aeolian Edge" <t>
+bind ^numpad5 input /ws "Exenterator" <t>
+bind ^numpad6 input /ws "Ruthless Stroke" <t>
+bind ^numpad7 input /ws "Cyclone" <t>
+bind ^numpad9 input /ws "Gust Slash" <t>
+bind ^numpad. input /ws "Shadowstitch" <t>

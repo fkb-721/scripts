@@ -1,0 +1,11 @@
+input /echo -----Abilities-----;
+input /echo [ CTRL + ` ] Yonin;	
+input /echo -----Dagger-----;
+input /echo [ CTRL + Numpad1 ] Evisceration;
+input /echo [ CTRL + Numpad2 ] Viper Bite;
+input /echo [ CTRL + Numpad3 ] Exenterator;
+input /echo [ CTRL + Numpad4 ] Aeolian Edge;
+input /echo [ CTRL + Numpad5 ] Cyclone;
+input /echo [ CTRL + Numpad6 ] Gust Slash;
+input /echo [ CTRL + Numpad9 ] Wasp Sting;
+input /echo [ CTRL + Numpad. ] Shadowstitch;

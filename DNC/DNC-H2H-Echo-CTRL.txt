@@ -1,0 +1,9 @@
+input /echo -----Abilities-----;
+input /echo cycle steps
+input /echo cycleback steps
+input /echo -----Club-----;
+input /echo [ CTRL + Numpad1 ] Asuran Fists;
+input /echo [ CTRL + Numpad2 ] Combo;
+input /echo [ CTRL + Numpad3 ] Backhand Blow;
+input /echo [ CTRL + Numpad4 ] Spinning Attack;
+input /echo [ CTRL + Numpad. ] Shoulder Tackle;

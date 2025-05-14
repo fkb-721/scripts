@@ -1,0 +1,21 @@
+bind ^numpad- exec /NIN/NIN-Great_Katana-Echo-CTRL.txt
+bind ^numpad1 input /ws "Tachi: Jinpu" <t>
+bind ^numpad2 input /ws "Tachi: Kagero" <t>
+bind ^numpad3 input /ws "Tachi: Goten" <t>
+bind ^numpad4 input /ws "Tachi: Ageha" <t>
+bind ^numpad5 input /ws "Tachi: Koki" <t>
+bind ^numpad6 input /ws "Tachi: Kasha" <t>
+bind ^numpad7 input /ws "Tachi: Enpi" <t>
+bind ^numpad. input /ws "Tachi: Hobaku" <t>
+
+bind !numpad- exec /NIN/NIN-Great_Katana-Echo-ALT.txt
+unbind !numpad1
+unbind !numpad2
+unbind !numpad3
+unbind !numpad4
+unbind !numpad5
+unbind !numpad6
+unbind !numpad7
+unbind !numpad8
+unbind !numpad9
+unbind !numpad.

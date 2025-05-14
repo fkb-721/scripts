@@ -1,0 +1,11 @@
+input /echo -----Abilities-----;
+input /echo [ CTRL + ` ] Yonin;
+input /echo -----Great_Katana-----;
+input /echo [ CTRL + Numpad1 ] Tachi: Jinpu;
+input /echo [ CTRL + Numpad2 ] Tachi: Kagero;
+input /echo [ CTRL + Numpad3 ] Tachi: Goten;
+input /echo [ CTRL + Numpad4 ] Tachi: Ageha;
+input /echo [ CTRL + Numpad5 ] Tachi: Koki;
+input /echo [ CTRL + Numpad6 ] Tachi: Kasha;
+input /echo [ CTRL + Numpad7 ] Tachi: Enpi;
+input /echo [ CTRL + Numpad. ] Tachi: Hobaku;

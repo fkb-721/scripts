@@ -1,0 +1,15 @@
+get Adapa Shield sack;
+get Agwu\'s Axe case;
+get Arktoi case;
+get Izizoeksi case;
+get Ikenga\'s Axe case;
+get Kaidate sack;
+get Dolichenus case;
+get Killer Shortbow case;
+get Malevolence case;
+get Naegling case;
+get Artio\'s Mantle sack all;
+get Pet Food Theta satchel all;
+get Bubbly Broth satchel all;
+get Dire Broth satchel all;
+get C. Plasma Broth satchel all;

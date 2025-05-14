@@ -1,0 +1,5 @@
+input /echo -----Mode-----;
+input /echo [ ALT + - ] Cycle Element;
+input /echo [ ALT + = ] Cycleback Element;
+input /echo -----Club-----;
+input /echo [ ALT + Numpad1 ]  Starlight;

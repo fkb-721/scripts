@@ -1,0 +1,22 @@
+bind ^numpad- exec /BST/BST-Axe-Echo-CTRL.txt
+bind ^numpad1 input /ws "Decimation" <t>
+bind ^numpad2 input /ws "Ruinator" <t>
+bind ^numpad3 input /ws "Primal Rend" <t>
+bind ^numpad4 input /ws "Rampage" <t>
+bind ^numpad5 input /ws "Gale Axe" <t>
+bind ^numpad6 input /ws "Avalanche Axe" <t>
+bind ^numpad7 input /ws "Spinning Axe" <t>
+bind ^numpad9 input /ws "Raging Axe" <t>
+bind ^numpad. input /ws "Bora Axe" <t>
+
+bind !numpad- exec /BST/BST-Axe-Echo-ALT.txt
+bind !numpad1 input /ja "Smash Axe" <t>
+bind !numpad2 input /ja "Mistral Axe" <t>
+bind !numpad3 input /ja "Calamity" <t>
+bind !numpad4 input /ja "Cloudsplitter" <t>
+unbind !numpad5
+unbind !numpad6
+unbind !numpad7
+unbind !numpad8
+unbind !numpad9
+unbind !numpad.

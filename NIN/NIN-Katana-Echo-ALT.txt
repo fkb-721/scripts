@@ -1,0 +1,8 @@
+input /echo -----Abilities-----;
+input /echo [ ALT + ` ] Innin;
+input /echo -----Katana-----;
+input /echo [ ALT + Numpad1 ] Blade: Chi;
+input /echo [ ALT + Numpad2 ] Blade: To;
+input /echo [ ALT + Numpad3 ] Blade: Teki;
+input /echo [ ALT + Numpad4 ] Blade: Ei;
+input /echo [ ALT + Numpad5 ] Blade: Yu;

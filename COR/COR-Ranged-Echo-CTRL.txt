@@ -1,0 +1,12 @@
+input /echo -----Mode----;
+input /echo [ CTRL + ` ]	Toggles Luzaf Ring;
+input /echo -----Gun-----;
+input /echo [ CTRL + Numpad1 ] Leaden Salute;
+input /echo [ CTRL + Numpad2 ] Wildfire;
+input /echo [ CTRL + Numpad3 ] Last Stand;
+input /echo [ CTRL + Numpad4 ] Hot Shot;
+input /echo [ CTRL + Numpad5 ] Detonator;
+input /echo [ CTRL + Numpad6 ] Terminus;
+input /echo [ CTRL + Numpad7 ] Slug Shot;
+input /echo [ CTRL + Numpad9 ] Sniper Shot;
+input /echo [ CTRL + Numpad. ] Numbing Shot;

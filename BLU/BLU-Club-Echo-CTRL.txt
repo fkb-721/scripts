@@ -1,0 +1,13 @@
+input /echo -----Abilities-----;
+input /echo [ CTRL + - ] Chain Affinity;
+input /echo [ CTRL + = ] Burst Affinity;
+input /echo -----Club-----;
+input /echo [ CTRL + Numpad1 ] Black Halo;
+input /echo [ CTRL + Numpad2 ] Judgment;
+input /echo [ CTRL + Numpad3 ] Skullbreaker;
+input /echo [ CTRL + Numpad4 ] Seraph Strike;
+input /echo [ CTRL + Numpad5 ] True Strike;
+input /echo [ CTRL + Numpad6 ] Flash Nova;
+input /echo [ CTRL + Numpad7 ] Shining Strike;
+input /echo [ CTRL + Numpad9 ] Realmrazer;
+input /echo [ CTRL + Numpad. ] Brainshaker;

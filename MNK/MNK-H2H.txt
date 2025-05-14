@@ -1,0 +1,22 @@
+bind ^numpad- exec /MNK/MNK-H2H-Echo-CTRL.txt
+bind ^numpad1 input /ws "Howling Fist" <t>
+bind ^numpad2 input /ws "Tornado Kick" <t>
+bind ^numpad3 input /ws "Dragon Kick" <t>
+bind ^numpad4 input /ws "Victory Smite" <t>
+bind ^numpad5 input /ws "Raging Fists" <t>
+bind ^numpad6 input /ws "Shijin Spiral" <t>
+bind ^numpad7 input /ws "Asuran Fists" <t>
+bind ^numpad9 input /ws "Ascetic\'s Fury" <t>
+bind ^numpad. input /ws "Spinning Attack" <t>
+
+bind !numpad- exec /MNK/MNK-H2H-Echo-ALT.txt
+bind !numpad1 input /ws "Combo" <t>
+bind !numpad2 input /ws "One Inch Punch" <t>
+bind !numpad3 input /ws "Backhand Blow" <t>
+bind !numpad4 input /ws "Shoulder Tackle" <t>
+unbind !numpad5
+unbind !numpad6
+unbind !numpad7
+unbind !numpad8
+unbind !numpad9
+unbind !numpad.

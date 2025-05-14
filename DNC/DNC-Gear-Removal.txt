@@ -1,0 +1,8 @@
+put Twashtar case;
+put Gleti\'s Knife case;
+put Fusetto +2 case;
+put Karambit case;
+put Mpu Gandring case;
+put Terpsichore case;
+put Tauret case;
+put Senuna\'s Mantle sack all;

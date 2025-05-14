@@ -1,0 +1,13 @@
+input /echo -----Abilities-----;
+input /echo [ ALT + ` ] Uses Assigned Threnody;
+input /echo [ ALT + - ] Cycleback Threnody's;
+input /echo [ ALT + = ] Cycle Threnody's;
+input /echo [ ALT + Numpad2 ] Uses Assigned Carol 1;
+input /echo [ ALT + Numpad1 ] Cycleback Carol 1;
+input /echo [ ALT + Numpad3 ] Cycle Carol 1;
+input /echo [ ALT + Numpad5 ] Uses Assigned Carol 2;
+input /echo [ ALT + Numpad4 ] Cycleback Carol 2;
+input /echo [ ALT + Numpad6 ] Cycle Carol 2;
+input /echo [ ALT + Numpad8 ] Uses Assigned Etude;
+input /echo [ ALT + Numpad7 ] Cycleback Etudes;
+input /echo [ ALT + Numpad9 ] Cycle Etudes;

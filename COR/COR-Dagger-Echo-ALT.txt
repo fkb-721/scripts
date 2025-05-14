@@ -1,0 +1,9 @@
+input /echo -----Dagger-----;
+input /echo [ ALT + Numpad1 ]  Evisceration;
+input /echo [ ALT + Numpad2 ]  Exenterator;
+input /echo [ ALT + Numpad3 ]  Cyclone;
+input /echo [ ALT + Numpad4 ]  Aeolian Edge;
+input /echo [ ALT + Numpad5 ]  Gust Slash;
+input /echo [ ALT + Numpad6 ]  Viper Bite;
+input /echo [ ALT + Numpad7 ]  Wasp Sting;
+input /echo [ ALT + Numpad. ]  Shadowstitch;

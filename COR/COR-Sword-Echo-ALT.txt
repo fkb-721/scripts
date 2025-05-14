@@ -1,0 +1,9 @@
+input /echo -----Sword-----;
+input /echo [ ALT + Numpad1 ]  Fast Blade;
+input /echo [ ALT + Numpad2 ]  Burning Blade;
+input /echo [ ALT + Numpad3 ]  Requiescat;
+input /echo [ ALT + Numpad4 ]  Savage Blade;
+input /echo [ ALT + Numpad5 ]  Shining Blade;
+input /echo [ ALT + Numpad6 ]  Circle Blade;
+input /echo [ ALT + Numpad7 ]  Spirits Within;
+input /echo [ ALT + Numpad. ]  Flat Blade;

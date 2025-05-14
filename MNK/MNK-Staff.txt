@@ -1,0 +1,22 @@
+bind ^numpad- exec /MNK/MNK-H2H-Echo-CTRL.txt
+bind ^numpad1 input /ws "Retribution" <t>
+bind ^numpad2 input /ws "Full Swing" <t>
+bind ^numpad3 input /ws "Shell Crusher" <t>
+bind ^numpad4 input /ws "Cataclysm" <t>
+bind ^numpad5 input /ws "Earth Crusher" <t>
+bind ^numpad6 input /ws "Shattersoul" <t>
+unbind ^numpad7
+unbind ^numpad9
+unbind ^numpad.
+
+unbind !numpad-
+unbind !numpad1
+unbind !numpad2
+unbind !numpad3
+unbind !numpad4
+unbind !numpad5
+unbind !numpad6
+unbind !numpad7
+unbind !numpad8
+unbind !numpad9
+unbind !numpad.

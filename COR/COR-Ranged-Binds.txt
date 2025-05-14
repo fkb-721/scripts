@@ -1,0 +1,10 @@
+bind ^numpad- exec /COR/COR-Ranged-Echo-CTRL.txt
+bind ^numpad1 input /ws "Leaden Salute" <t>
+bind ^numpad2 input /ws "Wildfire" <t>
+bind ^numpad3 input /ws "Last Stand" <t>
+bind ^numpad4 input /ws "Hot Shot" <t>
+bind ^numpad5 input /ws "Detonator" <t>
+bind ^numpad6 input /ws "Terminus" <t>
+bind ^numpad7 input /ws "Slug Shot" <t>
+bind ^numpad9 input /ws "Sniper Shot" <t>
+bind ^numpad. input /ws "Numbing Shot" <t>

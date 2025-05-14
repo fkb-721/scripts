@@ -1,0 +1,5 @@
+input /echo -----H2H-----;
+input /echo [ ALT + Numpad1 ] Combo;
+input /echo [ ALT + Numpad2 ] One Inch Punch;
+input /echo [ ALT + Numpad3 ] Backhand Blow;
+input /echo [ ALT + Numpad4 ] Shoulder Tackle;

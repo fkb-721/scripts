@@ -1,0 +1,22 @@
+bind ^numpad- exec /NIN/NIN-Katana-Echo-CTRL.txt
+bind ^numpad1 input /ws "Blade: Shun" <t>
+bind ^numpad2 input /ws "Blade: Ten" <t>
+bind ^numpad3 input /ws "Blade: Hi" <t>
+bind ^numpad4 input /ws "Blade: Kamu" <t>
+bind ^numpad5 input /ws "Blade: Ku" <t>
+bind ^numpad6 input /ws "Blade: Jin" <t>
+bind ^numpad7 input /ws "Blade: Rin" <t>
+bind ^numpad9 input /ws "Blade: Retsu" <t>
+unbind ^numpad.
+
+bind !numpad- exec /NIN/NIN-Katana-Echo-ALT.txt
+bind !numpad1 input /ws "Blade: Chi" <t>
+bind !numpad2 input /ws "Blade: To" <t>
+bind !numpad3 input /ws "Blade: Teki" <t>
+bind !numpad4 input /ws "Blade: Ei" <t>
+bind !numpad5 input /ws "Blade: Yu" <t>
+unbind !numpad6
+unbind !numpad7
+unbind !numpad8
+unbind !numpad9
+unbind !numpad.

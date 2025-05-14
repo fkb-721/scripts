@@ -1,0 +1,10 @@
+bind ^numpad- exec /BRD/BRD-Sword-Echo-CTRL.txt
+bind ^numpad1 input /ws "Fast Blade" <t>
+bind ^numpad2 input /ws "Burning Blade" <t>
+bind ^numpad3 input /ws "Shining Blade" <t>
+bind ^numpad4 input /ws "Savage Blade" <t>
+bind ^numpad5 input /ws "Circle Blade" <t>
+bind ^numpad6 input /ws "Spirits Within" <t>
+bind ^numpad7 input /ws "Red Lotus Blade" <t>
+bind ^numpad9 input /ws "Seraph Blade" <t>
+bind ^numpad. input /ws "Flat Blade" <t>

@@ -1,0 +1,9 @@
+bind ^numpad- exec /BRD/BRD-Staff-Echo-CTRL.txt
+bind ^numpad1 input /ws "Retribution" <t>
+bind ^numpad2 input /ws "Full Swing" <t>
+bind ^numpad3 input /ws "Shell Crusher" <t>
+bind ^numpad4 input /ws "Spirit Taker" <t>
+bind ^numpad5 input /ws "Rock Crusher" <t>
+bind ^numpad6 input /ws "Starburst" <t>
+bind ^numpad7 input /ws "Heavy Swing" <t>
+bind ^numpad. input /ja "Shattersoul" <t>

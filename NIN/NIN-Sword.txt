@@ -1,0 +1,22 @@
+bind ^numpad- exec /NIN/NIN-Sword-Echo-CTRL.txt
+bind ^numpad1 input /ws "Sanguine Blade" <t>
+bind ^numpad2 input /ws "Seraph Blade" <t>
+bind ^numpad3 input /ws "Red Lotus Blade" <t>
+bind ^numpad4 input /ws "Savage Blade" <t>
+bind ^numpad5 input /ws "Burning Blade" <t>
+bind ^numpad6 input /ws "Shining Blade" <t>
+unbind ^numpad7
+bind ^numpad9 input /ws "Vorpal Blade" <t>
+bind ^numpad. input /ws "Flat Blade" <t>
+
+bind !numpad- exec /NIN/NIN-Sword-Echo-ALT.txt
+bind !numpad1 input /ws "Fast Blade" <t>
+bind !numpad2 input /ws "Spirits Within" <t>
+bind !numpad3 input /ws "Circle Blade" <t>
+unbind !numpad4
+unbind !numpad5
+unbind !numpad6
+unbind !numpad7
+unbind !numpad8
+unbind !numpad9
+unbind !numpad.

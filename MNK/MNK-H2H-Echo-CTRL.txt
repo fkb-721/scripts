@@ -1,0 +1,10 @@
+input /echo -----H2H-----;
+input /echo [ CTRL + Numpad1 ] Howling Fist;
+input /echo [ CTRL + Numpad2 ] Tornado Kick;
+input /echo [ CTRL + Numpad3 ] Dragon Kick;
+input /echo [ CTRL + Numpad4 ] Victory Smite;
+input /echo [ CTRL + Numpad5 ] Raging Fists;
+input /echo [ CTRL + Numpad6 ] Shijin Spiral;
+input /echo [ CTRL + Numpad7 ] Asuran Fists;
+input /echo [ CTRL + Numpad9 ] Ascetic's Fury;
+input /echo [ CTRL + Numpad. ] Spinning Attack;
